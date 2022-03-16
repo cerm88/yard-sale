@@ -172,3 +172,10 @@ body{
     color: var(--hospital-green);
     border: solid 1px var(--hospital-green);
 }
+
+/* Estilos de Mi Cuenta */
+
+.title--my-account {
+    text-align: left;
+    margin-bottom: 48px;
+}
