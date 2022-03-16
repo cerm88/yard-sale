@@ -1,4 +1,4 @@
-# **Proyecto Creación de Blogs**
+# **Proyecto Yard Sale**
 
 Se basa en mostrar crear una estructura frontend de una web basado en ventas de garajes.
 
@@ -8,7 +8,7 @@ Proyecto de prueba
 
 ## **Assets del proyecto**
 
-Todos los `assets` lo podrás descargar aquí: [Click Aquí]([https://link](https://drive.google.com/drive/folders/1CG3SfzVJa4QW7nSHUSkVQ1oNlkBVUcbE?usp=sharing)
+Todos los `assets` lo podrás descargar aquí: [Click Aquí](https://drive.google.com/drive/folders/1CG3SfzVJa4QW7nSHUSkVQ1oNlkBVUcbE?usp=sharing)
 
 ## **Maquetación del proyecto**
 
