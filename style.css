@@ -98,3 +98,44 @@ body{
     background-color: var(--hospital-green);
     color: var(--white);
 }
+
+/* Estilos de Email ha sido Enviado */
+
+.button--final {
+    margin-bottom: 32px;
+}
+
+.email-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: 150px;
+    background-color: var(--text-input-field);
+    border-radius: 50%;
+    /* margin-bottom: 38px; */
+    margin: 0 auto 38px;
+}
+
+.email-image img {
+    width: 90px;
+}
+
+.resend {
+    font-size: var(--sm);
+    text-align: center;
+}
+
+.resend span {
+    color: var(--dark);
+}
+
+.resend a {
+    color: var(--hospital-green);
+    text-decoration: none;
+    padding-left: 4px;
+}
+
+.resend a:hover {
+    text-decoration: underline;
+}
