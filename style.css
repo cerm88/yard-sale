@@ -413,3 +413,85 @@ body{
 .my-orders-content .my-orders-price img {
     padding-left: 24px;
 }
+
+/* Estilos de Barra de Navegación */
+
+nav {
+    position: fixed;
+    width: 100vw;
+    height: 54px;
+    box-shadow: 0 1px 3px 0px #e5e5e5;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar-left {
+    display: flex;
+    align-items: center;
+}
+
+.menu {
+    display: none;
+}
+
+.nav-logo {
+    width: 144px;
+    height: auto;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0 54px;
+}
+
+.navbar-left ul, .navbar-right ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+
+.navbar-left ul li a {
+    text-decoration: none;
+    color: var(--very-light-pink);
+    font-size: var(--md);
+    font-weight: 400;
+}
+
+.navbar-left ul li a {
+    padding: 6px 13px;
+    border: solid 1px var(--white);
+}
+
+.navbar-left ul li a:hover {
+    color: var(--hospital-green);
+    border: solid 1px var(--hospital-green);
+    border-radius: 14px;
+}
+
+.navbar-right ul li:last-child {
+    position: relative;
+    margin: 0 52px 0 26px;
+}
+
+.navbar-right .navbar-shopping-cart div {
+    position: absolute;
+    top: -7px;
+    right: -9px;
+    font-size: 12px;
+    font-weight: bold;
+    background-color: var(--hospital-green);
+    width: 14px;
+    height: 14px;
+    text-align: center;
+    border-radius: 50%;
+}
+
+.navbar-right ul li:first-child {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.navbar-right ul li:first-child img {
+    transform: rotate(90deg);
+}
