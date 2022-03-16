@@ -284,3 +284,46 @@ body{
     color: var(--hospital-green);
     font-size: var(--sm);
 }
+
+/* Estilos de Menú en Mobile */
+
+.mobile-menu {
+    padding: 0 24px;
+}
+
+.mobile-menu ul {
+    list-style: none;
+}
+
+.mobile-menu ul li {
+    text-align: start;
+    padding-bottom: 38px;
+}
+
+.mobile-menu > ul li:first-child {
+    padding-top: 38px;
+}
+
+.mobile-menu ul li a {
+    text-decoration: none;
+    color: var(--black);
+    font-size: var(--md);
+    font-weight: bold;
+    display: inline-block;
+}
+
+.mobile-menu .email a {
+    font-size: var(--sm);
+    color: var(--black);
+    font-weight: 400;
+}
+
+.mobile-menu .email {
+    padding-bottom: 6px;
+}
+
+.mobile-menu .signout a {
+    font-size: var(--sm);
+    color: var(--hospital-green);
+    font-weight: bold;
+}
