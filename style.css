@@ -179,3 +179,13 @@ body{
     text-align: left;
     margin-bottom: 48px;
 }
+
+/* Estilos de Mi Cuenta Edición */
+
+.data-account {
+    height: 42px;
+    font-size: var(--md);
+    padding: 13px 0;
+    margin-bottom: 24px;
+    color: var(--very-light-pink);
+}
