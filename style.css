@@ -139,3 +139,36 @@ body{
 .resend a:hover {
     text-decoration: underline;
 }
+
+/* Estilos de Login */
+
+.logo-login {
+    width: 206px;
+    margin: 0 auto 74px;
+    /* Desktop */
+    display: none;
+}
+
+.forgot-pass {
+    text-align: center;
+    margin-bottom: 58px;
+}
+
+.forgot-pass a {
+    font-size: var(--md);
+    font-weight: 300;
+    color: var(--hospital-green);
+    text-decoration: none;
+}
+
+.forgot-pass a:hover {
+    text-decoration: underline;
+}
+
+.button--secundary {
+    font-size: var(--lg);
+    font-weight: bold;
+    background-color: var(--white);
+    color: var(--hospital-green);
+    border: solid 1px var(--hospital-green);
+}
