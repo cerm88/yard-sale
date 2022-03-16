@@ -395,3 +395,21 @@ body{
     background-position: center;
     background-repeat: no-repeat;
 }
+
+/* Estilos de My Orders */
+
+.my-orders-content {
+    width: 100%;
+    height: 76px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.my-orders-content .my-orders-price {
+    display: flex;
+}
+
+.my-orders-content .my-orders-price img {
+    padding-left: 24px;
+}
