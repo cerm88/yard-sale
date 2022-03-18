@@ -4,7 +4,7 @@ Se basa en mostrar crear una estructura frontend de una web basado en ventas de 
 
 ## **Estado actual**
 
-Proyecto de prueba
+Proyecto de prueba.
 
 ## **Assets del proyecto**
 
@@ -120,10 +120,22 @@ Referencias:
 [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)  
 [The Angular Convention](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#-commit-message-guidelines)
 
-## **Actualizaciones Pendientes**
+## **Instalación y funcionamiento**
 
-- ...
+No es definido su instalación y funcionamiento ya que son solamente maquetaciones en HTML y CSS vanilla, sin interacción con Javascript, para probar cada una de las maquetaciones puede ejecutarse cada archivo HTML desde cualquier navegador. 
+
+## **Tecnologías Utilizadas**
+- HTML5
+- CSS3
+
+## **Bugs y errores conocidos**
+
+Sin bugs y errores conocidos
+
+## **Actualizaciones pendientes**
+
+Sin actualizaciones pendientes
 
 ## **Versiones**
 
-- ...
+- V1.0.0: Proyecto inicial con caracteríscas básicas
