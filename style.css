@@ -217,13 +217,6 @@ body{
     margin-bottom: 15px;
 }
 
-.info-container {
-    width: 100%;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-}
-
 .icon-add-car {
     border-radius: 50%;
     border: solid 1px var(--very-light-pink);
